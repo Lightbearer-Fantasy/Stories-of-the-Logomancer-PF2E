@@ -6,8 +6,8 @@
     "minimum": "12",
     "verified": "12"
   },
-  "download": "https://raw.githubusercontent.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-PF2E/refs/heads/main/module.rar",
-  "manifest": "https://raw.githubusercontent.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-PF2E/refs/heads/main/module.json", 
+  "download": "https://github.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-PF2E/releases/latest/download/module.zip",
+  "manifest": "https://github.com.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-PF2E/releases/latest/download/module.json", 
   "authors": [
     {
       "name": "Lightbearer",
