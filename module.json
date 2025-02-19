@@ -1,13 +1,13 @@
 {
-  "id": "stories-of-the-wordmancer-pf2e",
-  "title": "Stories of the Wordmancer PF2E",
+  "id": "stories-of-the-logomancer-pf2e",
+  "title": "Stories of the Logomancer PF2E",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
-  "download": "https://github.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-PF2E/releases/latest/download/module.zip",
-  "manifest": "https://github.com.com/Lightbearer-Fantasy/Stories-of-the-Wordmancer-PF2E/releases/latest/download/module.json", 
+  "download": "https://github.com/Lightbearer-Fantasy/Stories-of-the-Logomancer-PF2E/releases/latest/download/module.zip",
+  "manifest": "https://github.com.com/Lightbearer-Fantasy/Stories-of-the-Logomancer-PF2E/releases/latest/download/module.json", 
   "authors": [
     {
       "name": "Lightbearer",
@@ -16,9 +16,9 @@
   ],
   "packs": [
     {
-      "name": "stories-of-the-wordmancer-pf2e",
-      "label": "Stories of the Wordmancer PF2E",
-      "path": "packs/stories-of-the-wordmancer-pf2e",
+      "name": "stories-of-the-logomancer-pf2e",
+      "label": "Stories of the Logomancer PF2E",
+      "path": "packs/stories-of-the-logomancer-pf2e",
       "type": "Adventure",
       "ownership": {
         "PLAYER": "OBSERVER",

@@ -1,1 +1,1 @@
-# Stories of the Wordmancer PF2E
+# Stories of the Logomancer PF2E
