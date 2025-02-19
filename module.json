@@ -1,7 +1,7 @@
 {
   "id": "stories-of-the-logomancer-pf2e",
   "title": "Stories of the Logomancer PF2E",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
