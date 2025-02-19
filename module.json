@@ -7,7 +7,7 @@
     "verified": "12"
   },
   "download": "https://github.com/Lightbearer-Fantasy/Stories-of-the-Logomancer-PF2E/releases/latest/download/module.zip",
-  "manifest": "https://github.com.com/Lightbearer-Fantasy/Stories-of-the-Logomancer-PF2E/releases/latest/download/module.json", 
+  "manifest": "https://raw.githubusercontent.com/Lightbearer-Fantasy/Stories-of-the-Logomancer-PF2E/releases/latest/download/module.json", 
   "authors": [
     {
       "name": "Lightbearer",
